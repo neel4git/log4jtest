@@ -1,0 +1,18 @@
+2021-02-16 14:17:23,612 INFO o.s.b.StartupInfoLogger [main] Starting JavaLog4jApplication on neelslap with PID 4460 (C:\Users\nesubram\Downloads\spring-boot-log4j-master\spring-boot-log4j-master\target\classes started by nesubram in C:\Users\nesubram\Downloads\spring-boot-log4j-master\spring-boot-log4j-master)
+2021-02-16 14:17:23,636 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-02-16 14:17:24,848 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-02-16 14:17:24,871 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-16 14:17:24,872 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2021-02-16 14:17:24,873 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-02-16 14:17:24,999 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-02-16 14:17:25,000 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1263 ms
+2021-02-16 14:17:25,204 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-16 14:17:25,383 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-16 14:17:25,414 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-02-16 14:17:25,419 INFO o.s.b.StartupInfoLogger [main] Started JavaLog4jApplication in 2.577 seconds (JVM running for 5.134)
+2021-02-16 14:18:35,420 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-16 14:18:35,421 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-02-16 14:18:35,430 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2021-02-16 14:19:03,657 INFO c.t.HelloController [http-nio-8080-exec-5] An INFO Message
+2021-02-16 14:19:03,657 WARN c.t.HelloController [http-nio-8080-exec-5] A WARN Message
+2021-02-16 14:19:03,658 ERROR c.t.HelloController [http-nio-8080-exec-5] An ERROR Message
