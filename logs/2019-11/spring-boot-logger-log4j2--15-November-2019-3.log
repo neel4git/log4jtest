@@ -1,0 +1,5 @@
+2019-11-15 19:59:48,160 INFO o.s.b.StartupInfoLogger [main] Starting JavaLog4jApplicationTests on MININT-24CODLO with PID 27816 (started by gauk in C:\Users\gauk\Documents\Work\java-log4j)
+2019-11-15 19:59:48,174 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-11-15 19:59:49,416 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-15 19:59:49,728 INFO o.s.b.StartupInfoLogger [main] Started JavaLog4jApplicationTests in 2.013 seconds (JVM running for 4.373)
+2019-11-15 19:59:50,064 INFO o.s.s.c.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,40 @@
+2019-11-15 20:12:37,740 INFO o.s.b.StartupInfoLogger [main] Starting JavaLog4jApplicationTests on MININT-24CODLO with PID 29024 (started by gauk in C:\Users\gauk\Documents\Work\java-log4j)
+2019-11-15 20:12:37,751 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-11-15 20:12:38,978 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-15 20:12:39,267 INFO o.s.b.StartupInfoLogger [main] Started JavaLog4jApplicationTests in 1.993 seconds (JVM running for 4.689)
+2019-11-15 20:12:39,674 INFO o.s.s.c.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-15 20:13:01,992 INFO c.t.HelloController [http-nio-8080-exec-6] An INFO Message
+2019-11-15 20:13:01,993 WARN c.t.HelloController [http-nio-8080-exec-6] A WARN Message
+2019-11-15 20:13:01,993 ERROR c.t.HelloController [http-nio-8080-exec-6] An ERROR Message
+2019-11-15 20:13:03,053 INFO c.t.HelloController [http-nio-8080-exec-7] An INFO Message
+2019-11-15 20:13:03,053 WARN c.t.HelloController [http-nio-8080-exec-7] A WARN Message
+2019-11-15 20:13:03,053 ERROR c.t.HelloController [http-nio-8080-exec-7] An ERROR Message
+2019-11-15 20:13:03,231 INFO c.t.HelloController [http-nio-8080-exec-8] An INFO Message
+2019-11-15 20:13:03,231 WARN c.t.HelloController [http-nio-8080-exec-8] A WARN Message
+2019-11-15 20:13:03,231 ERROR c.t.HelloController [http-nio-8080-exec-8] An ERROR Message
+2019-11-15 20:13:03,405 INFO c.t.HelloController [http-nio-8080-exec-9] An INFO Message
+2019-11-15 20:13:03,406 WARN c.t.HelloController [http-nio-8080-exec-9] A WARN Message
+2019-11-15 20:13:03,406 ERROR c.t.HelloController [http-nio-8080-exec-9] An ERROR Message
+2019-11-15 20:13:03,590 INFO c.t.HelloController [http-nio-8080-exec-10] An INFO Message
+2019-11-15 20:13:03,591 WARN c.t.HelloController [http-nio-8080-exec-10] A WARN Message
+2019-11-15 20:13:03,591 ERROR c.t.HelloController [http-nio-8080-exec-10] An ERROR Message
+2019-11-15 20:13:03,763 INFO c.t.HelloController [http-nio-8080-exec-1] An INFO Message
+2019-11-15 20:13:03,764 WARN c.t.HelloController [http-nio-8080-exec-1] A WARN Message
+2019-11-15 20:13:03,764 ERROR c.t.HelloController [http-nio-8080-exec-1] An ERROR Message
+2019-11-15 20:13:04,125 INFO c.t.HelloController [http-nio-8080-exec-2] An INFO Message
+2019-11-15 20:13:04,126 WARN c.t.HelloController [http-nio-8080-exec-2] A WARN Message
+2019-11-15 20:13:04,126 ERROR c.t.HelloController [http-nio-8080-exec-2] An ERROR Message
+2019-11-15 20:13:04,308 INFO c.t.HelloController [http-nio-8080-exec-3] An INFO Message
+2019-11-15 20:13:04,308 WARN c.t.HelloController [http-nio-8080-exec-3] A WARN Message
+2019-11-15 20:13:04,308 ERROR c.t.HelloController [http-nio-8080-exec-3] An ERROR Message
+2019-11-15 20:13:04,490 INFO c.t.HelloController [http-nio-8080-exec-4] An INFO Message
+2019-11-15 20:13:04,491 WARN c.t.HelloController [http-nio-8080-exec-4] A WARN Message
+2019-11-15 20:13:04,491 ERROR c.t.HelloController [http-nio-8080-exec-4] An ERROR Message
+2019-11-15 20:13:04,654 INFO c.t.HelloController [http-nio-8080-exec-5] An INFO Message
+2019-11-15 20:13:04,654 WARN c.t.HelloController [http-nio-8080-exec-5] A WARN Message
+2019-11-15 20:13:04,654 ERROR c.t.HelloController [http-nio-8080-exec-5] An ERROR Message
+2019-11-15 20:13:04,828 INFO c.t.HelloController [http-nio-8080-exec-6] An INFO Message
+2019-11-15 20:13:04,829 WARN c.t.HelloController [http-nio-8080-exec-6] A WARN Message
+2019-11-15 20:13:04,829 ERROR c.t.HelloController [http-nio-8080-exec-6] An ERROR Message
+2019-11-15 20:13:07,323 INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(38)-127.0.0.1] Application shutdown requested.
+2019-11-15 20:13:07,326 INFO o.s.s.c.ExecutorConfigurationSupport [RMI TCP Connection(38)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
